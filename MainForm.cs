@@ -68,6 +68,7 @@ namespace TechnicalSupport
 
             timer1.Enabled = true;
             timer1.Start();
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
