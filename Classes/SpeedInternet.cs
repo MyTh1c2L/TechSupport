@@ -24,6 +24,4 @@ namespace TechnicalSupport
             return textspeed;
         }
     }
-
-
 }
